@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Elzubair\source\repos\Monoalphabetic\Source.cpp(8,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Elzubair\source\repos\Monoalphabetic\Source.cpp(24,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Elzubair\source\repos\Monoalphabetic\Source.cpp(46,20): warning C4018: '<': signed/unsigned mismatch
+  Monoalphabetic.vcxproj -> C:\Users\Elzubair\source\repos\Monoalphabetic\Debug\Monoalphabetic.exe
